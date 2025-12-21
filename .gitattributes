@@ -1,0 +1,2 @@
+# Keep generated artifacts out of language stats
+*.html linguist-vendored
