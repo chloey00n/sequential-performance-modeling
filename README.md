@@ -1,4 +1,4 @@
-# Performance Streaks — Simulation & Sequence Analysis (Python)
+# Simulation & Sequence Analysis
 
 A reproducible Python/Jupyter analysis exploring **performance streaks** using simulation and observational sequence data.
 This repo is packaged as a portfolio-style project (clean structure, reproducible environment, and runnable notebook).
