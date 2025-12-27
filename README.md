@@ -15,7 +15,7 @@ The Case of the Hot Hand
 
 Introduction
 
-This report analyzes the concept of the “hot hand” in basketball using NBA player data from the 2012–2013 season.  
+This report analyzes the NBA player data from the 2012–2013 season.  
 The goal is to determine whether players truly perform better after previous successful shots or if this perception is due to random variation.  
 
 The analysis proceeds in four parts:
@@ -37,7 +37,7 @@ jupyter notebook
 ```
 
 Open and **Run All**:
-- `notebooks/02_performance_streaks_analysis.ipynb`
+- `notebooks/performance_streaks_analysis.ipynb`
 
 ## Reproducibility notes
 
